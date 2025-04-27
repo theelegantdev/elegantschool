@@ -1,0 +1,175 @@
+{
+  "Header": {
+    "title": "The Elegant System of Education",
+    "paragraph": "Empowering young minds through excellence in education, character development, and innovative learning. Join us in creating a brighter future for your child."
+  },
+  "About": {
+    "paragraph": "The Elegant System of Education is a premier educational institution committed to nurturing academic excellence and personal growth. Our comprehensive curriculum combines traditional values with modern teaching methodologies, ensuring students receive a well-rounded education. We focus on developing critical thinking, creativity, and leadership skills while maintaining high academic standards.",
+    "Why": [
+      "Experienced Faculty",
+      "Smart Classrooms",
+      "Individual Attention",
+      "Holistic Development"
+    ],
+    "Why2": [
+      "Modern Infrastructure",
+      "Sports Facilities",
+      "Cultural Activities",
+      "Personal Development"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Science Laboratory",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Digital Library",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Sports Complex",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Computer Lab",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Art Studio",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Auditorium",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Cafeteria",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Music Room",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Playground",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+  {
+    "icon": "fa fa-lightbulb-o",
+    "name": "Innovative Teaching",
+    "text": "We use modern and engaging teaching methods to make learning interesting, helping students develop problem-solving and creative thinking skills."
+  },
+  {
+    "icon": "fa fa-users",
+    "name": "Community Building",
+    "text": "Students learn the value of teamwork, respect, and responsibility through group activities, projects, and community programs."
+  },
+  {
+    "icon": "fa fa-globe",
+    "name": "Broader Horizons",
+    "text": "We encourage students to explore different cultures, ideas, and perspectives, preparing them for a connected and diverse world."
+  },
+  {
+    "icon": "fa fa-smile-o",
+    "name": "Positive Environment",
+    "text": "Our school fosters a friendly and motivating atmosphere where students feel happy, confident, and excited to learn every day."
+  },
+  {
+    "icon": "fa fa-cogs",
+    "name": "Skill Development",
+    "text": "We focus on developing essential life skills such as communication, leadership, and decision-making through daily school activities."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "name": "Parent Partnership",
+    "text": "We maintain strong communication with parents to support every child's growth and create a shared journey of education and success."
+  }
+],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Our students consistently achieve top ranks in national science olympiads and mathematics competitions, demonstrating excellence in STEM fields.",
+      "name": "Academic Achievements"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Regular cultural festivals, art exhibitions, and music recitals provide students with platforms to showcase their artistic talents and creativity.",
+      "name": "Cultural Activities"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Our sports teams have won regional championships in basketball, cricket, and athletics, promoting teamwork and sportsmanship.",
+      "name": "Sports Excellence"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Students actively participate in community service projects, environmental initiatives, and leadership programs, developing social responsibility.",
+      "name": "Student Initiatives"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Dr. Robert Williams",
+      "job": "Principal"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Ms. Patricia Lee",
+      "job": "Vice Principal (Academics)"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Dr. Sarah Thompson",
+      "job": "Head of Sciences"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Mr. James Anderson",
+      "job": "Head of Arts & Sports"
+    }
+  ],
+  "Contact": {
+    "address": "Pinwal Road Chakwal, Opposite VTI",
+    "phone": "+92 343 5937816",
+    "email": "elegantschoolinfo@gmail.com",
+    "facebook": "/",
+    "twitter": "/",
+    "youtube": "/"
+  },
+  
+  "Features": [
+  {
+    "icon": "fa fa-star",
+    "title": "Academic Excellence",
+    "text": "We deliver strong academic results through experienced teachers, a focused curriculum, and a commitment to inspiring every student's best performance."
+  },
+  {
+    "icon": "fa fa-shield",
+    "title": "Safe Environment",
+    "text": "Our campus offers a secure, nurturing setting with modern safety measures, ensuring that students feel protected and supported every day."
+  },
+  {
+    "icon": "fa fa-heart",
+    "title": "Student Support",
+    "text": "We provide personalized counseling, academic guidance, and emotional support services to help students grow confidently and overcome challenges."
+  },
+  {
+    "icon": "fa fa-trophy",
+    "title": "Achievement Focus",
+    "text": "Students are encouraged to excel in academics, sports, and creative arts, with regular opportunities to participate in competitions and showcase their talents."
+  }
+]
+}
