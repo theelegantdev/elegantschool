@@ -141,7 +141,8 @@ hr {
   background-color: #608dfd;
 }
 .section-title {
-  margin-bottom: 70px;
+  margin-top: 70px;
+  margin-bottom: 60px;
 }
 .section-title h2 {
   position: relative;
@@ -208,7 +209,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/intro-bg-2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -297,8 +298,6 @@ header .intro-text {
   padding-right: 8px;
 }
 #about img {
-  width: 520px;
-  margin-top: 10px;
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);

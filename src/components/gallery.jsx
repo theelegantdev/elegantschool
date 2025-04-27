@@ -8,8 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Step into the world of The Elegant System of Education through our photo gallery. See how we celebrate achievement, creativity, and growth in every moment. Whether it’s academic milestones or school events, our gallery showcases the pride we take in our students' journeys
           </p>
         </div>
         <div className="row">
