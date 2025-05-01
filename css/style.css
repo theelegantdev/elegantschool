@@ -256,9 +256,6 @@ header .intro-text {
 }
 
 @media (max-width: 480px) {
-  .intro {
-  width: 111% !important;
-  }
   .intro-text h1 {
     font-size: 42px;
   }
