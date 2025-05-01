@@ -245,6 +245,37 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
+@media (max-width: 767px) {
+  .intro-text h1 {
+    font-size: 42px;
+  }
+  
+  .intro-text p {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .intro {
+  width: 111% !important;
+  }
+  .intro-text h1 {
+    font-size: 42px;
+  }
+  
+  .intro-text p {
+    font-size: 20px;
+  }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .intro-text {
+    width: 50%;
+  }
+  .intro-text h1{
+    font-size: 60px;
+  }
+}
 /* Features Section */
 #features {
   background: #f6f6f6;
