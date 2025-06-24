@@ -4,7 +4,7 @@ export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
-        <div className="navbar-header">
+        <div className="navbar-header" style={{ minHeight: "80px" }}>
           <button
             type="button"
             className="navbar-toggle collapsed"
@@ -17,9 +17,13 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-          The Elegant
-          </a>{" "}
+          <a className="navbar-brand page-scroll" href="/">
+          <img
+              src="img/logo.png"
+              alt="The Elegant Logo"
+              style={{ height: "80px", width: "auto", display: "inline-block", verticalAlign: "middle" }}
+            />
+          </a>
         </div>
 
         <div
